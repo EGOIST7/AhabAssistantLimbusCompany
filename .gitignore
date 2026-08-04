@@ -4,6 +4,8 @@
 .vscode
 .agent
 .agents
+skills-lock.json
+docs/agents
 .idea
 .claude
 
