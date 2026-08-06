@@ -4,15 +4,14 @@
 .vscode
 .agent
 .agents
-skills-lock.json
-docs/agents
 .idea
 .claude
 
 AGENTS.md
 CLAUDE.md
 GEMINI.md
-
+skills-lock.json
+docs
 
 # 构建文件
 build
